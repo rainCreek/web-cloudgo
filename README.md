@@ -104,7 +104,7 @@ ab -n 1000 -c 100 http://localhost:9090/hello/15331262raoyuxi_abtest
 go get -u github.com/go-martini/martini
 ```
 
-
+----------
 
 问题二：编写server.go中的NewServer函数时，不能确定port number的类型。
 
