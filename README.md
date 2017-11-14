@@ -8,9 +8,8 @@ Apache 2.4.29 x64
 工具：VS Code
 
 
-## 编程过程
 
-### 框架选择
+## 框架选择
 
 此次选用的是  **martini**
 
@@ -21,11 +20,14 @@ Apache 2.4.29 x64
 
 最主要的是GitHub上有中文版文档，非常有助于理解。
 
-### 测试
+-----------
+
+
+## 测试
 
 主要是使用curl和ab测试
 
-#### curl测试
+### curl测试
 
 **1.缺省测试**
 
@@ -67,9 +69,9 @@ curl -v http://localhost:9090/hello/15331262raoyuxi_test_for_curl
 
 ![port9090](http://img.blog.csdn.net/20171114194216309)
 
+-----------
 
-
-#### ab测试
+### ab测试
 
 用VS code终端输入：
 ```
