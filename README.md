@@ -1,7 +1,7 @@
 # web-cloudgo
 开发简单 web 服务程序 cloudgo，了解 web 服务器工作原理。
 
-环境：Window10/
+环境：Windows10/
 curl-7.56.1/
 Apache 2.4.29 x64
 
